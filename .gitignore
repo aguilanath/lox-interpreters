@@ -28,3 +28,7 @@ clox/main
 
 # C object files
 *.o
+
+# IDE config
+*.idea/
+*.iml
